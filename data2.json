@@ -1,46 +1,46 @@
 {
-  "data": [
-    {
-      "name": "Alex",
-      "age": "21",
-      "karma": "99",
-      "email": "sineadharkin@gumaygo.com"
-    },
-    {
-      "name": "Elvira",
-      "age": "21",
-      "karma": "75",
-      "email": "blank909@yt-google.com"
-    },
-    {
-      "name": "Keitha",
-      "age": "21",
-      "karma": "13",
-      "email": "scarydog@ezybarber.com"
-    },
-    {
-      "name": "Michaela",
-      "age": "41",
-      "karma": "1",
-      "email": "karovero@ameliachoi.com"
-    },
-    {
-      "name": "Chevrolet",
-      "age": "38",
-      "karma": "25",
-      "email": "byqanixi@afractalreality.com"
-    },
-    {
-      "name": "Ilona",
-      "age": "38",
-      "karma": "100",
-      "email": "rastex4@automizly.net"
-    },
-    {
-      "name": "Alex",
-      "age": "41",
-      "karma": "45",
-      "email": "daryarodnaya@elderflame.xyz"
-    }
-  ]
+	"data": {
+		"user1": {
+			"name": "Alex",
+			"age": "21",
+			"karma": "99",
+			"email": "sineadharkin@gumaygo.com"
+		},
+		"user2": {
+			"name": "Elvira",
+			"age": "21",
+			"karma": "75",
+			"email": "blank909@yt-google.com"
+		},
+		"user3": {
+			"name": "Keitha",
+			"age": "21",
+			"karma": "13",
+			"email": "scarydog@ezybarber.com"
+		},
+		"user4": {
+			"name": "Michaela",
+			"age": "41",
+			"karma": "1",
+			"email": "karovero@ameliachoi.com"
+		},
+		"user5": {
+			"name": "Chevrolet",
+			"age": "38",
+			"karma": "25",
+			"email": "byqanixi@afractalreality.com"
+		},
+		"user6": {
+			"name": "Ilona",
+			"age": "38",
+			"karma": "100",
+			"email": "rastex4@automizly.net"
+		},
+		"user7": {
+			"name": "Alex",
+			"age": "41",
+			"karma": "45",
+			"email": "daryarodnaya@elderflame.xyz"
+		}
+	}
 }
